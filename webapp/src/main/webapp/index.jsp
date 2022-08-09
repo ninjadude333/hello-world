@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
-    <h1>COCKSTAIN v5.0! KUBERNETES</h1>
+    <h1>COCKSTAIN v6.0! KUBERNETES</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
